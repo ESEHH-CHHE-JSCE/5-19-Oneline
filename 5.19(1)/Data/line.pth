@@ -1,0 +1,3 @@
+#  Set path for result
+set term win
+cd 'C:/hsepc/temp'
